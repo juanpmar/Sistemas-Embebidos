@@ -1,0 +1,7 @@
+main.c:180:6:SystemClock_Config	96	static
+main.c:387:6:txOK	16	static
+main.c:349:6:CDC_ReceiveCallback	32	dynamic
+main.c:392:6:txOK2	24	static
+main.c:93:5:main	112	static
+main.c:399:6:HAL_TIM_PeriodElapsedCallback	0	static
+main.c:416:6:Error_Handler	0	static
